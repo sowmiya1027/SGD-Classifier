@@ -7,10 +7,12 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1. Create the student placement dataset, define the input features (X) and target variable (y), and split the data into training and testing sets.
 2.Apply feature scaling to the training and testing data using StandardScaler.
 3.Train the Logistic Regression model using SGDClassifier with log loss and make predictions for the test data.
 4.Evaluate the model using confusion matrix, accuracy score, and classification report, and predict the placement status for a new student.
+```
 
 ## Program:
 ```
